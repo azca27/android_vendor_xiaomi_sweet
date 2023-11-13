@@ -500,7 +500,9 @@ PRODUCT_PACKAGES += \
     libsns_low_lat_stream_skel \
     libasphere \
     libhwdap \
+    libmisoundfx \
     libshoebox \
+    libxlog \
     libswgamedap \
     libswvqe \
     android.hardware.bluetooth@1.0-impl-qti \
